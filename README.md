@@ -20,3 +20,6 @@ smoker: Smoking
 region: the beneficiary's residential area in the US, northeast, southeast, southwest, northwest.
 
 charges: Individual medical costs billed by health insurance
+
+# The aim of the project
+The aim of the project is to estimate the approximate cost of a person's health insurance based on the given variables. Developed an end-to-end data science application. 
